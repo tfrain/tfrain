@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm tfrain wei</h1>
-<h3 align="center">A rookie backend developer</h3>
+<h1 align="center">Hi 👋, I'm wesley wei</h1>
+<h3 align="center">A backend developer</h3>
 
 - 🌱 I’m currently learning **Go**
 
-- 📝 I regularly write articles on [freewei.ml](freewei.ml)
+- 📝 I regularly write articles on [medium](https://medium.com/@Wesley_Wei)
 
 
 <h3 align="left">Languages and Tools:</h3>
